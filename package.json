@@ -2,7 +2,7 @@
   "name": "poker-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Eggfooyoung123/CSCI-39542-HW-4",
+  "homepage": "https://Eggfooyoung123.github.io/CSCI-39542-HW-4",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
